@@ -1,13 +1,13 @@
 # Askify
 This is a question and answer forum
 ## Features:
-    1. Google authentication enabled\
-    2. Users cana ask questions and provide relevant links\
-    3. Multiple users can answer the same question\
-    4. All the content in the feed is sorted according to time.\
-    5. Log-out enabled.\
+    1. Google authentication enabled
+    2. Users cana ask questions and provide relevant links
+    3. Multiple users can answer the same question
+    4. All the content in the feed is sorted according to time.
+    5. Log-out enabled.
 ## Tech-Stack:
-    Back-end:\
+    Back-end:
 MongoDB: Document database to store user data\
 NodeJS: Runtime environment for javascript\
 ExpressJS: Running on the top of NodeJS\
